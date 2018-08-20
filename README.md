@@ -20,7 +20,7 @@ Este documento contém a especificação do projeto do banco de dados <nome do p
 <br>e motivação da escolha realizada. <br>
 
 >Visando a nescessidade da expansão dos negócios de piscicultura e pensando em levar mais desenvolvimento para essa área, o projeto aquário inteligente visa aumentar a produção e a qualidade dos peixes criados em tanques através do controle da qualidade da água.
-Esse controle será feito através de sensores de monitoramento de PH, temperatura e oxigênio, estabelecendo pre-determinadamente o tipo de peixe e as condições mais ideiais e favoráveis para seu completo desenvolvimento, esses sensores coletarão essas informações e passaram para o sistema "Aquário Inteligente" onde serão processadas e guardadas en um banco de dados.
+Esse controle será feito através de sensores de monitoramento de PH, temperatura e oxigênio, estabelecendo pre-determinadamente o tipo de peixe e as condições mais ideiais e favoráveis para seu completo desenvolvimento, esses sensores coletarão essas informações e passarão para o sistema "Aquário Inteligente" onde serão processadas e guardadas en um banco de dados.
  
 
 ### 3.MINI-MUNDO Novo<br>
