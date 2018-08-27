@@ -19,9 +19,7 @@ quarto_componente_do_grupo:raffael.annjos@gmail.com<br>
 Este documento contém a especificação do projeto do banco de dados <nome do projeto> 
 <br>e motivação da escolha realizada. <br>
 
->Visando a nescessidade da expansão dos negócios de piscicultura e pensando em levar mais desenvolvimento para essa área, o projeto aquário inteligente visa aumentar a produção e a qualidade dos peixes criados em tanques através do controle da qualidade da água.
-Esse controle será feito através de sensores de monitoramento de PH, temperatura e oxigênio, estabelecendo pre-determinadamente o tipo de peixe e as condições mais ideiais e favoráveis para seu completo desenvolvimento, esses sensores coletarão essas informações e passarão para o sistema "Aquário Inteligente" onde serão processadas e guardadas em um banco de dados.
- 
+>Os problemas do nosso cliente abrangem o transporte e a qualidade das carnes, o software deverá controlar o estoque de carnes do frigorífico, controlar a qualidade da carne por meio do tempo de congelamento de cada peça a fim das mesmas não perderem o sabor, e deverá também calcular a melhor rota para os caminhões, evitando ao máximo engarrafamentos economizando assim gasolina.
 
 ### 3.MINI-MUNDO Novo<br>
 
